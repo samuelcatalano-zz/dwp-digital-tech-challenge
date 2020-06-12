@@ -23,6 +23,10 @@ Technical Challenge
 > Run Tests:
 - `mvn test`
 
+### Acessing Swagger | Open API:
+Once with the application running:
+http://localhost:8080/swagger-ui.html
+
 ### APIs:
 > People living in London
 * GET: http://localhost:8080/api/user/users-city/London
